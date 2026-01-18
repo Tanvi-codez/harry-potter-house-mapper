@@ -1,0 +1,63 @@
+
+.,"acclaim, acclamation"
+.,"celebrity, praise"
+.,"accolades, laurels"
+.,"recognition, notability"
+.,"repute, reputation"
+.,"precipitate, precipitous"
+.,"impetuous, impulsive"
+.,daredevil
+.,"adventurous, audacious, death-or-glory"
+.,"courage, bravery, nerve, and chivalry."
+.,"knight errantry, the knightly code, knighthood"
+.,"knightliness, courtliness, nobility"
+.,magnanimity
+.,"bravery, courage, boldness"
+.,"valor, heroism, daring"
+.,"intrepidity, honor"
+.,"integrity, high-mindedness"
+.,"justice, justness, fairness"
+.,"loyalty, constancy"
+.,"trueness, truthfulness, virtuousness"
+.,"strong, powerful, robust"
+
+.,"he emblematic animal is a lion, and its colours are scarlet and gold."
+.,"Sir Nicholas de Mimsy-Porpington, also known as ""Nearly Headless Nick"" is the House ghost."
+.,corresponds roughly to the element of fire
+., the colours scarlet and gold were chosen to represent the house
+.,scarlet representing the mane and tail and gold representing the coat
+.," its members are generally regarded as brave, though sometimes to the point of recklessness. "
+.,.s and Slytherins have shared a fierce house rivalry since their founders
+.,Members of other houses might have felt that . received favouritism
+.,Common Room is located in one of the castle's towers (. Tower)
+.,"Loyal, brave, courageous, daring, adventurous, chivalrous – those are the traits of a true .. "
+., fight for what is right and they are usually the ones at the head of the pack 
+.,have several other good qualities that often make them well-suited to other houses.
+.,"daring - even when they don't have all the information, they will be the first to jump to action."
+.,"They seek glory for the mere sake of getting glory, not money or academics or a position of power"
+.,athletic - tend to produce the best athletes as well as the best duelers.
+.,"popularity - due to their lack of restraint and athletic abilities, they tend to produce the most popular kids "
+.,chivalrous - they choose to do what's noble over what's lawfully right
+.,arrogance- .s break rules so often they get a high opinion of themselves.
+.,recklessness - having too much nerve can lead them to take risk in situations where they are not in control.
+.,"self-righteousness - .s tend to think their way of doing things is the best way to do things because they take the ""noble"" road"
+.,"an eye for an eye -  If they think a certain person deserves to be treated badly, they will do it. "
+.,"their element is fire. Fire is the element of passion, and symbolizes wild emotions and lack of restraint."
+.,"this is the house of most of the protagonists, and therefore meant to symbolize ""good"", at least in the beginning of the series"
+.,"The mascot is a lion, and the colors are red and gold"
+.,"on 7th floor, filled with big fireplaces and knight's armor"
+.,Their ghost is Nearly Headless Nick
+.,"brave, plucky, fearless"
+.,"valiant, valorous, intrepid"
+.,"heroic, lionhearted, manful"
+.,"bold, daring, daredevil, adventurous, audacious;"
+.,"manful, macho, bold, daring"
+.,"renown, fame, prestige, honor"
+.,"eminence, preeminence"
+.,"rash, careless, thoughtless, incautious, heedless, unheeding"
+.,"hasty, overhasty"
+.,"devil-may-care, hotheaded; irresponsible, wild, foolhardy, headlong"
+.,"overadventurous, over-venturesome, audacious, death-or-glory"
+.,"injudicious, mindless, negligent"
+.,"unconsidered, unthinking, indiscreet"
+

@@ -1,0 +1,57 @@
+.,"crafty, wily"
+.,"artful, guileful"
+.,"devious, sly"
+.,"knowing, scheming"
+.,"designing, tricky"
+.,"slippery, slick, manipulative"
+.,"Machiavellian, deceptive, duplicitous"
+.,"shrewd, astute, clever"
+.,"canny, sharp, sharp-witted, skillful"
+.,"ingenious, resourceful, inventive"
+.,"imaginative, deft, adroit"
+.,"savvy, fiendish, sneaky"
+.,"archaicsubtle, rarevulpine, carny"
+.,self-sustaining
+.,"ego, self-worth, self-image, self-identity, self-regard"
+.,"ambition, cunning, leadership, and resourcefulness."
+.,"students tend to clique together, often acquiring leaders, which further exemplifies .'s ambitious qualities."
+.,founder highly valued and favoured pure-blood students
+.,corresponds roughly with the element of water due to serpents and snakes being commonly associated with the sea and lochs
+.,highly developed senses of self-preservation
+.,"tendency towards deep, unrequited love."
+.,"Severus Snape and The Bloody Baron held abiding but unreturned feelings for Lily Evans and Helena Ravenclaw, respectively."
+., blood purity was a factor in selecting .s. 
+.,well-known reputation for creating dark witches and wizards
+.,the light in the common room is green
+.,"For instance, when given the choice, we will always choose to save our own necks"
+.,"only known . password is ""pureblood"", used in 1992."
+.,"mascot is a snake, and the colors are green and silver"
+.,"common room is in the dungeons near the lake, and contains skulls and low-hanging green lamps"
+.,"cunning - very crafty and sneaky, rarely ever getting caught"
+.,ambition - want to have the best status possible
+.,"resourceful - they may not have all the answers, but they know how to use what they have"
+.,pure lineage - having a pure family can come in handy in the world of politics. Just ask Lucius Malfoy
+.,"a high sense of self-preservation, ends justify the means, power hungry"
+.,"However, a Muggle-Born student from that house is considered to be quite rare."
+.,The patron ghost of the house is the Bloody Baron.
+.,"This means that .s tend to hesitate before acting, so as to weigh all possible outcomes before deciding exactly what should be done."
+.,pride and that sometimes makes them arrogant.
+.,want to be in charge and they want to be leaders.
+.,pride and that sometimes makes them arrogant.
+., believe in doing what is necessary
+
+.,"haughty, conceited, hubristic"
+.,"self-important, opinionated"
+.,"egotistic, full of oneself, superior"
+.,"overbearing, pompous, high-handed"
+.,"swaggering, boastful, bumptious"
+.,"blustering, patronizing, condescending"
+.,"disdainful, contemptuous, imperious"
+.,"proud, vain, immodest"
+.,"lofty, lordly, snobbish, snobby"
+.,"overweening, supercilious, smug"
+.,"pretentious, affected"
+.,"scornful, mocking, sneering, scoffing"
+.,"high and mighty, uppity, snooty"
+.,"stuck-up, toffee-nosed, fancy-pants, snotty, jumped up, too big for one's boots, bigheaded"
+
