@@ -6,6 +6,8 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
 nltk.download("punkt")
+nltk.download('punkt_tab')
+
 nltk.download("stopwords")
 
 stop_words = set(stopwords.words("english"))
