@@ -6,7 +6,7 @@ from backend import map_users_to_houses
 WA_TXT_PATH = "_chat.txt"
 
 st.set_page_config(page_title="The Sorting Hack", layout="centered")
-st.title("🎬 Harry Potter House Mapper")
+st.title("Harry Potter House Mapper")
 
 uploaded_file = st.file_uploader(
     "Upload WhatsApp chat (.txt)",
